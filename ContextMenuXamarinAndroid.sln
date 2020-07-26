@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuXamarinAndroid", "ContextMenuXamarinAndroid.csproj", "{9EB411B5-DDEE-4C1D-929B-9818ABE82AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB411B5-DDEE-4C1D-929B-9818ABE82AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB411B5-DDEE-4C1D-929B-9818ABE82AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB411B5-DDEE-4C1D-929B-9818ABE82AAF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9EB411B5-DDEE-4C1D-929B-9818ABE82AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB411B5-DDEE-4C1D-929B-9818ABE82AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB411B5-DDEE-4C1D-929B-9818ABE82AAF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E4E0E3-BDE5-4ED0-AEE8-E82AE92A9863}
+	EndGlobalSection
+EndGlobal
